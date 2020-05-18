@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "@tinytot/rollup-factory": "^1.0.13",
-    "@types/invariant": "^2.2.32",
+    "@types/invariant": "^2.2.33",
     "invariant": "^2.2.4",
     "is-plain-object": "^3.0.0"
   },
