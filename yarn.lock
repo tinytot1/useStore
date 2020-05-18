@@ -2255,10 +2255,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/invariant@^2.2.32":
-  version "2.2.32"
-  resolved "https://registry.npm.taobao.org/@types/invariant/download/@types/invariant-2.2.32.tgz?cache=0&sync_timestamp=1588200728355&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Finvariant%2Fdownload%2F%40types%2Finvariant-2.2.32.tgz#cf523a609062564e36e7a7dadb5089ed87da6382"
-  integrity sha1-z1I6YJBiVk4256fa21CJ7YfaY4I=
+"@types/invariant@^2.2.33":
+  version "2.2.33"
+  resolved "https://registry.npm.taobao.org/@types/invariant/download/@types/invariant-2.2.33.tgz#ec5eec29c63bf5e4ca164e9feb3ef7337cdcbadb"
+  integrity sha1-7F7sKcY79eTKFk6f6z73M3zcuts=
 
 "@types/istanbul-lib-coverage@*", "@types/istanbul-lib-coverage@^2.0.0", "@types/istanbul-lib-coverage@^2.0.1":
   version "2.0.1"
