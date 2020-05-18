@@ -1,0 +1,49 @@
+{
+  "name": "@tinytot/use-store",
+  "version": "0.0.0",
+  "description": "React状态管理",
+  "keywords": [
+    "react",
+    "state",
+    "store"
+  ],
+  "author": "tinytot <zh5172@qq.com>",
+  "homepage": "https://github.com/tinytot1/use-store#readme",
+  "license": "ISC",
+  "main": "dist/index.bundle.js",
+  "module": "dist/index.esm.js",
+  "files": [
+    "dist"
+  ],
+  "typings": "dist/types/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinytot1/use-store.git"
+  },
+  "scripts": {
+    "test": "cross-env NODE_ENV='test' jest",
+    "clean": "rimraf dist",
+    "prestart": "npm run clean",
+    "start": "npm run build:types && rollup --config rollup.config.js --watch",
+    "prebuild": "npm run clean",
+    "build": "npm run build:types && npm run build:rollup",
+    "build:rollup": "rollup --config rollup.config.js",
+    "build:types": "tsc --emitDeclarationOnly --declaration --declarationDir dist/types"
+  },
+  "bugs": {
+    "url": "https://github.com/tinytot1/use-store/issues"
+  },
+  "devDependencies": {
+    "@tinytot/rollup-factory": "^1.0.13",
+    "@types/invariant": "^2.2.32",
+    "invariant": "^2.2.4",
+    "is-plain-object": "^3.0.0"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "http://json.schemastore.org/renovate",
+  "extends": ["config:base"],
+  "rangeStrategy": "bump",
+  "semanticCommits": true,
+  "commitMessagePrefix": "chore(deps):",
+  "assignees": ["tinytot1"],
+  "packageRules": [
+    {
+      "depTypeList": ["devDependencies"],
+      "automerge": true,
+      "baseBranches": ["master"]
+    },
+    {
+      "packagePatterns": ["^@tinytot/"],
+      "automerge": false
+    }
+  ]
+}
