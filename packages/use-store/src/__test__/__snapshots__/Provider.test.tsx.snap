@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`basic usage use-store should work 1`] = `
+<Test>
+  <Memo()
+    models={
+      Array [
+        Object {
+          "name": "modelA",
+          "state": Object {
+            "a": 0,
+            "b": 0,
+          },
+        },
+        Object {
+          "name": "@STATUS",
+          "state": Object {},
+        },
+      ]
+    }
+  >
+    <Memo()
+      model={
+        Object {
+          "name": "@STATUS",
+          "state": Object {},
+        }
+      }
+    >
+       
+      <Memo()
+        model={
+          Object {
+            "name": "modelA",
+            "state": Object {
+              "a": 0,
+              "b": 0,
+            },
+          }
+        }
+      >
+         
+        <App>
+          <button>
+            a:
+            0
+          </button>
+        </App>
+      </Memo()>
+    </Memo()>
+  </Memo()>
+</Test>
+`;

@@ -1,0 +1,29 @@
+{
+  "$schema": "http://json.schemastore.org/eslintrc",
+  "extends": "@tinytot/eslint-config",
+  "overrides": [
+    {
+      "files": [
+        "*.ts"
+      ],
+      "extends": "@tinytot/eslint-config/typescript"
+    },
+    {
+      "files": [
+        "*.tsx"
+      ],
+      "extends": "@tinytot/eslint-config/react"
+    },
+    {
+      "files": [
+        "**/__jest__/**/*.{js,ts,jsx,tsx}",
+        "**/__mocks__/**/*.{js,ts,jsx,tsx}",
+        "*.{test,spec}.{js,ts,jsx,tsx}"
+      ],
+      "env": {
+        "jest": true,
+        "node": true
+      }
+    }
+  ]
+}
