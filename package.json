@@ -10,7 +10,7 @@
     "build": "lerna run build",
     "start": "lerna run start",
     "test": "cross-env NODE_ENV='test' jest",
-    "coveralls": "cat ./coverage/lcov.info | coveralls"
+    "coveralls": "cat .coverage/lcov.info | coveralls"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
