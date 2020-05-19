@@ -1,6 +1,11 @@
 # useStore
-![npm (scoped)](https://img.shields.io/npm/v/@tinytot/use-store)
 
+![npm (scoped)](https://img.shields.io/npm/v/@tinytot/use-store)
+[![Build Status](https://travis-ci.org/tinytot1/use-store.svg?branch=master)](https://travis-ci.org/tinytot1/use-store)
+[![Coverage Status](https://coveralls.io/repos/github/tinytot1/use-store/badge.svg?branch=master)](https://coveralls.io/github/tinytot1/use-store?branch=master)
+[![NPM downloads](https://img.shields.io/npm/dw/@tinytot/use-store)](https://npmjs.org/package/@tinytot/use-store)
+![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/minzip/@tinytot/use-store/0.1.0)
+![npm peer dependency version](https://img.shields.io/npm/dependency-version/use-store/peer/react?logo=react)
 基于 React Hooks 的轻量级中心化数据管理方案。
 
 ## 安装
