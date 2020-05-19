@@ -6,6 +6,7 @@
 [![NPM downloads](https://img.shields.io/npm/dw/@tinytot/use-store)](https://npmjs.org/package/@tinytot/use-store)
 ![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/minzip/@tinytot/use-store/0.1.0)
 ![npm peer dependency version](https://img.shields.io/npm/dependency-version/use-store/peer/react?logo=react)
+
 基于 React Hooks 的轻量级中心化数据管理方案。
 
 ## 安装
