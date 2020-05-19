@@ -1,4 +1,4 @@
-import React from "react"
+import React from "react";
 
 // eslint-disable-next-line @typescript-eslint/no-invalid-void-type
 export type ActionHandler = <T = any>(value: T, state: State) => void | Promise<void>;
@@ -9,9 +9,9 @@ export interface Actions {
 export type State = Record<string, any>;
 
 export interface Model {
-  name: string;
+  readonly name: string;
   state: State;
-  actions?: Actions;
+  readonly actions?: Actions;
 }
 
 export interface ProviderProps {
