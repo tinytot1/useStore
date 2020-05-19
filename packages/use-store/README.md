@@ -1,4 +1,5 @@
 # useStore
+![npm (scoped)](https://img.shields.io/npm/v/@tinytot/use-store)
 
 基于 React Hooks 的轻量级中心化数据管理方案。
 
