@@ -2611,10 +2611,10 @@
     "@types/prop-types" "*"
     csstype "^2.2.0"
 
-"@types/react@^16.9.38":
-  version "16.9.38"
-  resolved "https://registry.npm.taobao.org/@types/react/download/@types/react-16.9.38.tgz?cache=0&sync_timestamp=1592406414427&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Freact%2Fdownload%2F%40types%2Freact-16.9.38.tgz#868405dace93a4095d3e054f4c4a1de7a1ac0680"
-  integrity sha1-hoQF2s6TpAldPgVPTEod56GsBoA=
+"@types/react@^16.9.39":
+  version "16.9.39"
+  resolved "https://registry.npm.taobao.org/@types/react/download/@types/react-16.9.39.tgz?cache=0&sync_timestamp=1592980261731&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Freact%2Fdownload%2F%40types%2Freact-16.9.39.tgz#d400fd57cef4cdd6c3a6286506e230e0b2995bba"
+  integrity sha1-1AD9V870zdbDpihlBuIw4LKZW7o=
   dependencies:
     "@types/prop-types" "*"
     csstype "^2.2.0"
