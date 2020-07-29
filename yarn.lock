@@ -5655,10 +5655,10 @@ is-plain-object@^3.0.0:
   dependencies:
     isobject "^4.0.0"
 
-is-plain-object@^4.1.0:
-  version "4.1.0"
-  resolved "https://registry.npm.taobao.org/is-plain-object/download/is-plain-object-4.1.0.tgz?cache=0&sync_timestamp=1595327590179&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fis-plain-object%2Fdownload%2Fis-plain-object-4.1.0.tgz#00196ad308ebb7de9d1fb57ae92ef1c38d5a740e"
-  integrity sha1-ABlq0wjrt96dH7V66S7xw41adA4=
+is-plain-object@^4.1.1:
+  version "4.1.1"
+  resolved "https://registry.npm.taobao.org/is-plain-object/download/is-plain-object-4.1.1.tgz#1a14d6452cbd50790edc7fdaa0aed5a40a35ebb5"
+  integrity sha1-GhTWRSy9UHkO3H/aoK7VpAo167U=
 
 is-potential-custom-element-name@^1.0.0:
   version "1.0.0"
