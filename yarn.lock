@@ -59,17 +59,17 @@
     semver "^5.4.1"
     source-map "^0.5.0"
 
-"@babel/core@^7.14.2":
-  version "7.14.2"
-  resolved "https://registry.nlark.com/@babel/core/download/@babel/core-7.14.2.tgz?cache=0&sync_timestamp=1620839401293&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40babel%2Fcore%2Fdownload%2F%40babel%2Fcore-7.14.2.tgz#54e45334ffc0172048e5c93ded36461d3ad4c417"
-  integrity sha1-VORTNP/AFyBI5ck97TZGHTrUxBc=
+"@babel/core@^7.14.3":
+  version "7.14.3"
+  resolved "https://registry.nlark.com/@babel/core/download/@babel/core-7.14.3.tgz#5395e30405f0776067fbd9cf0884f15bfb770a38"
+  integrity sha1-U5XjBAXwd2Bn+9nPCITxW/t3Cjg=
   dependencies:
     "@babel/code-frame" "^7.12.13"
-    "@babel/generator" "^7.14.2"
+    "@babel/generator" "^7.14.3"
     "@babel/helper-compilation-targets" "^7.13.16"
     "@babel/helper-module-transforms" "^7.14.2"
     "@babel/helpers" "^7.14.0"
-    "@babel/parser" "^7.14.2"
+    "@babel/parser" "^7.14.3"
     "@babel/template" "^7.12.13"
     "@babel/traverse" "^7.14.2"
     "@babel/types" "^7.14.2"
@@ -84,6 +84,15 @@
   version "7.14.2"
   resolved "https://registry.nlark.com/@babel/generator/download/@babel/generator-7.14.2.tgz?cache=0&sync_timestamp=1620839974232&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40babel%2Fgenerator%2Fdownload%2F%40babel%2Fgenerator-7.14.2.tgz#d5773e8b557d421fd6ce0d5efa5fd7fc22567c30"
   integrity sha1-1Xc+i1V9Qh/Wzg1e+l/X/CJWfDA=
+  dependencies:
+    "@babel/types" "^7.14.2"
+    jsesc "^2.5.1"
+    source-map "^0.5.0"
+
+"@babel/generator@^7.14.3":
+  version "7.14.3"
+  resolved "https://registry.nlark.com/@babel/generator/download/@babel/generator-7.14.3.tgz#0c2652d91f7bddab7cccc6ba8157e4f40dcedb91"
+  integrity sha1-DCZS2R973at8zMa6gVfk9A3O25E=
   dependencies:
     "@babel/types" "^7.14.2"
     jsesc "^2.5.1"
@@ -445,6 +454,11 @@
   version "7.14.2"
   resolved "https://registry.nlark.com/@babel/parser/download/@babel/parser-7.14.2.tgz?cache=0&sync_timestamp=1620839420907&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40babel%2Fparser%2Fdownload%2F%40babel%2Fparser-7.14.2.tgz#0c1680aa44ad4605b16cbdcc5c341a61bde9c746"
   integrity sha1-DBaAqkStRgWxbL3MXDQaYb3px0Y=
+
+"@babel/parser@^7.14.3":
+  version "7.14.3"
+  resolved "https://registry.nlark.com/@babel/parser/download/@babel/parser-7.14.3.tgz?cache=0&sync_timestamp=1621284470129&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40babel%2Fparser%2Fdownload%2F%40babel%2Fparser-7.14.3.tgz#9b530eecb071fd0c93519df25c5ff9f14759f298"
+  integrity sha1-m1MO7LBx/QyTUZ3yXF/58UdZ8pg=
 
 "@babel/plugin-proposal-async-generator-functions@^7.8.3":
   version "7.8.3"
