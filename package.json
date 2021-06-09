@@ -13,7 +13,7 @@
     "md": "cp packages/use-store/README.md ."
   },
   "devDependencies": {
-    "@babel/core": "^7.14.3",
+    "@babel/core": "^7.14.5",
     "@commitlint/cli": "^12.1.4",
     "@commitlint/config-conventional": "^12.1.4",
     "@tinytot/babel-preset-config": "^1.5.0",
