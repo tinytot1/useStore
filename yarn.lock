@@ -2588,10 +2588,10 @@
   dependencies:
     "@types/istanbul-lib-report" "*"
 
-"@types/jest@^26.0.23":
-  version "26.0.23"
-  resolved "https://registry.nlark.com/@types/jest/download/@types/jest-26.0.23.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40types%2Fjest%2Fdownload%2F%40types%2Fjest-26.0.23.tgz#a1b7eab3c503b80451d019efb588ec63522ee4e7"
-  integrity sha1-obfqs8UDuARR0BnvtYjsY1Iu5Oc=
+"@types/jest@^26.0.24":
+  version "26.0.24"
+  resolved "https://registry.nlark.com/@types/jest/download/@types/jest-26.0.24.tgz?cache=0&sync_timestamp=1625608013439&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40types%2Fjest%2Fdownload%2F%40types%2Fjest-26.0.24.tgz#943d11976b16739185913a1936e0de0c4a7d595a"
+  integrity sha1-lD0Rl2sWc5GFkToZNuDeDEp9WVo=
   dependencies:
     jest-diff "^26.0.0"
     pretty-format "^26.0.0"
