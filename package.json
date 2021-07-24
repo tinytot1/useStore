@@ -14,8 +14,8 @@
   },
   "devDependencies": {
     "@babel/core": "^7.14.8",
-    "@commitlint/cli": "^12.1.4",
-    "@commitlint/config-conventional": "^12.1.4",
+    "@commitlint/cli": "^13.1.0",
+    "@commitlint/config-conventional": "^13.1.0",
     "@tinytot/babel-preset-config": "^1.5.0",
     "@tinytot/browserslist-config": "^1.0.0",
     "@tinytot/eslint-config": "^1.4.3",
