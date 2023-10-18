@@ -2717,10 +2717,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/invariant@^2.2.35":
-  version "2.2.35"
-  resolved "https://registry.nlark.com/@types/invariant/download/@types/invariant-2.2.35.tgz#cd3ebf581a6557452735688d8daba6cf0bd5a3be"
-  integrity sha1-zT6/WBplV0UnNWiNjaumzwvVo74=
+"@types/invariant@^2.2.36":
+  version "2.2.36"
+  resolved "https://registry.npmmirror.com/@types/invariant/-/invariant-2.2.36.tgz#4d179e39df5a37b686a93b76ec58b35567b2830d"
+  integrity sha512-WdRjvN2y1PiXCmCIEBbe+eoHGylBQa2oIBGEQsfKMJzqff7fwv2OhyXcGQn70+dWII6a5W8Y3ipYwVnhf+IXig==
 
 "@types/istanbul-lib-coverage@*", "@types/istanbul-lib-coverage@^2.0.0", "@types/istanbul-lib-coverage@^2.0.1":
   version "2.0.1"
