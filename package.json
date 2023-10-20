@@ -30,7 +30,7 @@
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.7",
     "enzyme-to-json": "^3.6.2",
-    "eslint": "^8.51.0",
+    "eslint": "^8.52.0",
     "husky": "^7.0.4",
     "jest": "^26.6.3",
     "lerna": "^4.0.0",
