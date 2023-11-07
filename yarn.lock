@@ -2677,10 +2677,10 @@
   resolved "https://registry.npm.taobao.org/@types/color-name/download/@types/color-name-1.1.1.tgz?cache=0&sync_timestamp=1588199606687&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Fcolor-name%2Fdownload%2F%40types%2Fcolor-name-1.1.1.tgz#1c1261bbeaa10a8055bbc5d8ab84b7b2afc846a0"
   integrity sha1-HBJhu+qhCoBVu8XYq4S3sq/IRqA=
 
-"@types/enzyme-adapter-react-16@^1.0.8":
-  version "1.0.8"
-  resolved "https://registry.npmmirror.com/@types/enzyme-adapter-react-16/-/enzyme-adapter-react-16-1.0.8.tgz#85bec6a9827110fb7299be8eed3a092f101c1dcc"
-  integrity sha512-nzYumRvxSh2Vbk7mkseYbInmpMbVZRc1EJQVeQmXhNCNVmLg2VOKAJujc7YJ/gDdPW+X03wYrDGa1Bj0Q/NTaw==
+"@types/enzyme-adapter-react-16@^1.0.9":
+  version "1.0.9"
+  resolved "https://registry.npmmirror.com/@types/enzyme-adapter-react-16/-/enzyme-adapter-react-16-1.0.9.tgz#337d85f0e91be2654b246ec11701dcf75af30afc"
+  integrity sha512-z24MMxGtUL8HhXdye3tWzjp+19QTsABqLaX2oOZpxMPHRJgLfahQmOeTTrEBQd9ogW20+UmPBXD9j+XOasFHvw==
   dependencies:
     "@types/enzyme" "*"
 
