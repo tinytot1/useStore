@@ -19,7 +19,7 @@
     "@tinytot/babel-preset-config": "^1.5.0",
     "@tinytot/browserslist-config": "^1.0.0",
     "@tinytot/eslint-config": "^1.4.3",
-    "@types/enzyme": "^3.10.17",
+    "@types/enzyme": "^3.10.18",
     "@types/enzyme-adapter-react-16": "^1.0.9",
     "@types/jest": "^27.5.2",
     "@types/react": "^16.9.53",
